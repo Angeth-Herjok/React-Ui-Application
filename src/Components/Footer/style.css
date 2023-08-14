@@ -1,0 +1,38 @@
+.footer {
+  background-color: rgb(245, 214, 219);
+  color: black;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  margin: 40px 10px;
+}
+
+.foot-detail1,
+.foot-detail2,
+.foot-detail3,
+.foot-detail4 {
+  flex: 1;
+  padding: 1rem;
+}
+
+.foot-detail1 h1,
+.foot-detail2 h1,
+.foot-detail3 h1,
+.foot-detail4 h1 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: rgb(241, 74, 74);
+}
+
+.foot-detail2 p,
+.foot-detail3 p,
+.foot-detail4 p {
+  color: black;
+  margin-bottom: 0.3rem;
+}
+
+.foot-detail2 p:hover,
+.foot-detail3 p:hover,
+.foot-detail4 p:hover {
+  color: #fff;
+}

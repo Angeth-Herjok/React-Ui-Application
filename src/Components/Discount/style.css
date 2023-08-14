@@ -1,0 +1,41 @@
+.discountimages {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 40px 0;
+  }
+  
+  .discountimages img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  
+  .discountimages2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 20px;
+  }
+  
+  .discountimages2 img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  .discountimages {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 40px 0;
+  }
+  
+  .discountimages img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 10px; 
+  }
